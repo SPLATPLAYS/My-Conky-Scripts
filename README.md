@@ -35,21 +35,23 @@ Follow these steps to install and configure Conky scripts on your system:
 
 2. Navigate to the script directory:
 
-   ```bash
-   cd My-Conky-Scripts
-   ```
 
-3. Follow the specific installation instructions for each script provided in their respective directories.
+3.Go to one of the scripts folders.
+
+
+4.Follow the specific installation instructions for each script provided in their respective directories.
 
 ## Usage
 
-Once installed, you can run the Conky scripts using the following command:
+Once installed, you can copy the Conky scripts by first running this command (or just dragging the file):
 
 ```bash
-conky -c path/to/script/script_name.conf
+conky -c path/to/script/.script_name
 ```
 
-Make sure to replace `path/to/script` with the actual path to the script's directory and `script_name.conf` with the configuration file for the desired script.
+Make sure to replace `path/to/script` with the actual path to the script's directory and `.script_name` with the configuration file for the desired script.
+
+And if you want to make sure a script is working properly run the Conky.batch file to reload it.
 
 ## Customization
 
