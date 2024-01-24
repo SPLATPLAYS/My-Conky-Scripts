@@ -1,4 +1,3 @@
-```markdown
 # My Conky Scripts
 
 A collection of Conky scripts for creating cool and customizable user interfaces on your desktop.
