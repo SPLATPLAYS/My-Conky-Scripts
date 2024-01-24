@@ -65,5 +65,5 @@ If you'd like to contribute to this project, please follow the guidelines outlin
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [GPL-3.0 License](LICENSE.md).
 ```
