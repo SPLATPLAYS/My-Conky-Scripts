@@ -1,5 +1,3 @@
-Certainly! Here's a basic template for your README file. You can customize it further based on your specific scripts and preferences.
-
 ```markdown
 # My Conky Scripts
 
