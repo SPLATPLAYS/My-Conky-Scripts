@@ -19,7 +19,7 @@ Welcome to My Conky Scripts repository! This collection contains various Conky s
 
 ## Scripts
 
-- **Script 1:** Brief description and usage instructions.
+- **Minimalist:** The "Minimalist" Conky script provides a comprehensive snapshot of your system's key metrics, enhancing your desktop experience with real-time information. This script displays essential details such as date and time, system uptime, RAM and CPU usage, GPU information, and a graphical representation of CPU usage trends. The top processes section highlights the most resource-intensive processes currently running on your system..
 - **Script 2:** Brief description and usage instructions.
 - ...
 
@@ -30,7 +30,7 @@ Follow these steps to install and configure Conky scripts on your system:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/My-Conky-Scripts.git
+   git clone https://github.com/SPLATPLAYS/My-Conky-Scripts/
    ```
 
 2. Navigate to the script directory:
