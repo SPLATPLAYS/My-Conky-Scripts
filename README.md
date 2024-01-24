@@ -59,7 +59,8 @@ Each script may offer customization options. Refer to the script-specific README
 
 ## Screenshots
 
-Include screenshots or images here to showcase the visual appearance of your Conky scripts.
+![Minimalist Screenshot](https://github.com/SPLATPLAYS/My-Conky-Scripts/blob/main/Images/minimalist.png)
+
 
 ## Contributing
 
