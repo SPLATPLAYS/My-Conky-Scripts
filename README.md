@@ -67,5 +67,3 @@ If you'd like to contribute to this project, please follow the guidelines outlin
 
 This project is licensed under the [MIT License](LICENSE.md).
 ```
-
-Replace the placeholder sections with your actual content, and don't forget to add specific details about each script in the "Scripts" section. Additionally, you can create a `CONTRIBUTING.md` file for contribution guidelines and a `LICENSE.md` file for your chosen license.
