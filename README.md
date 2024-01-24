@@ -23,6 +23,8 @@ Welcome to My Conky Scripts repository! This collection contains various Conky s
 - **Script 2:** Brief description and usage instructions.
 - ...
 
+## Requirements
+   https://github.com/brndnmtthws/conky
 ## Installation
 
 Follow these steps to install and configure Conky scripts on your system:
